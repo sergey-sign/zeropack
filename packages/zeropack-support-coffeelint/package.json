@@ -1,0 +1,18 @@
+{
+  "name": "zeropack-support-coffeelint",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.coffee",
+  "dependencies": {
+    "coffeelint": "^2.0.7",
+    "coffeelint-loader": "^0.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "coffeelint"
+  ],
+  "author": "Sergey Sign <sergey.sign@gmail.com>",
+  "license": "MIT"
+}
