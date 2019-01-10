@@ -7,13 +7,13 @@
     "zeropack-plugin-happypack": "0.2.0",
     "zeropack-plugin-index-html": "0.2.0",
     "zeropack-plugin-progress-bar": "0.2.0",
-    "zeropack-support-babel": "0.2.0",
-    "zeropack-support-coffeescript": "0.2.0",
+    "zeropack-support-babel": "0.3.0",
+    "zeropack-support-coffeescript": "0.3.0",
     "zeropack-support-css": "0.2.0",
     "zeropack-support-file": "0.2.0",
     "zeropack-support-sass": "0.2.0"
   },
   "name": "zeropack-preset-coffee",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "main": "index.coffee"
 }
