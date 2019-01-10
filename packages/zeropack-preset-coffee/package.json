@@ -8,13 +8,13 @@
     "zeropack-plugin-index-html": "0.2.0",
     "zeropack-plugin-progress-bar": "0.2.0",
     "zeropack-support-babel": "^0.3.1",
-    "zeropack-support-coffeescript": "^0.3.1",
+    "zeropack-support-coffeescript": "0.3.3",
     "zeropack-support-css": "0.2.0",
     "zeropack-support-file": "0.2.0",
     "zeropack-support-sass": "0.2.0"
   },
   "name": "zeropack-preset-coffee",
-  "version": "0.3.1",
+  "version": "0.3.3",
   "main": "index.coffee",
   "gitHead": "013e3fb7a9dfe47e588a95c10e42f73fd136e4ae"
 }
