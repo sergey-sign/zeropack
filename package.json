@@ -6,7 +6,8 @@
     "packages/*"
   ],
   "scripts": {
-    "clean": "./clean.sh"
+    "clean": "./clean.sh",
+    "registry": "lerna publish --exact --registry http://localhost:4873 --no-verify-registry --no-verify-access"
   },
   "devDependencies": {
     "lerna": "^3.4.0",
