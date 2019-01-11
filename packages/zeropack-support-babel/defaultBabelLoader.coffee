@@ -9,6 +9,10 @@ babel =
   loader: 'babel-loader'
   options:
     presets: [babelPreset('env'), babelPreset('react')]
-    plugins: [babelPlugin('proposal-object-rest-spread'), babelPlugin('transform-runtime')]
+    plugins: [
+      babelPlugin('transform-modules-commonjs'),
+      babelPlugin('proposal-object-rest-spread'),
+      babelPlugin('transform-runtime')
+    ]
 
 module.exports = {babel}

@@ -2,6 +2,7 @@
   "dependencies": {
     "@babel/core": "^7.2.2",
     "@babel/plugin-proposal-object-rest-spread": "^7.2.0",
+    "@babel/plugin-transform-modules-commonjs": "^7.2.0",
     "@babel/plugin-transform-runtime": "^7.1.0",
     "@babel/preset-env": "^7.2.0",
     "@babel/preset-react": "7.0.0",
@@ -13,7 +14,7 @@
   "repository": "https://github.com/zeropack/zeropack",
   "license": "MIT",
   "name": "zeropack-support-babel",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "main": "index.coffee",
   "gitHead": "013e3fb7a9dfe47e588a95c10e42f73fd136e4ae"
 }
