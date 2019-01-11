@@ -1,9 +1,9 @@
 
 babelPlugin = (plugin) ->
-  require.resolve "@babel/#{plugin}"
+  require.resolve "@babel/plugin-#{plugin}"
 
 babelPreset = (preset) ->
-  require.resolve "@babel/#{preset}"
+  require.resolve "@babel/preset-#{preset}"
 
 babel =
   loader: 'babel-loader'
