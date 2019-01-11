@@ -16,6 +16,6 @@
     "@storybook/react": "4.1.3"
   },
   "peerDependencies": {
-    "zeropack-core": "^0.0.20"
+    "zeropack-core": "^0.3.4"
   }
 }
