@@ -15,6 +15,5 @@
   "license": "MIT",
   "name": "zeropack-support-babel",
   "version": "0.3.6",
-  "main": "index.coffee",
-  "gitHead": "013e3fb7a9dfe47e588a95c10e42f73fd136e4ae"
+  "main": "index.coffee"
 }
