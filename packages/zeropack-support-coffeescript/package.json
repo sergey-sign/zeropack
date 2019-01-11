@@ -2,14 +2,14 @@
   "dependencies": {
     "coffee-loader": "^0.9.0",
     "coffeescript": "^2.3.0",
-    "zeropack-core": "0.2.0",
-    "zeropack-support-babel": "^0.3.1"
+    "zeropack-core": "0.3.4",
+    "zeropack-support-babel": "0.3.4"
   },
   "description": "zeropack contrib package",
   "repository": "https://github.com/zeropack/zeropack",
   "license": "MIT",
   "name": "zeropack-support-coffeescript",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "main": "index.coffee",
   "gitHead": "013e3fb7a9dfe47e588a95c10e42f73fd136e4ae"
 }
